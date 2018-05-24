@@ -1,0 +1,5 @@
+app has following code. the goal is to eventually make it run as dameon
+
+pmset displaysleepnow
+Sleep 1
+caffeinate -u -t 2
